@@ -18,7 +18,7 @@ endif
 let s:mono2   = '#303030'
 let s:mono5   = '#c5c8c6'
 let s:c_mono0 = 234
-let s:c_mono1 = 0
+let s:c_mono1 = 235
 let s:c_mono2 = 236
 let s:c_mono3 = 8
 let s:c_mono4 = 7
@@ -28,10 +28,10 @@ let s:red      = '#cc6666'
 let s:green    = '#b5bd68'
 let s:blue     = '#81a2be'
 let s:orange   = '#de935f'
-let s:c_red    = 9
-let s:c_green  = 10
-let s:c_blue   = 12
-let s:c_orange = 3
+let s:c_red    = 167
+let s:c_green  = 143
+let s:c_blue   = 110
+let s:c_orange = 173
 
 
 let s:p = {
